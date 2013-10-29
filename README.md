@@ -1,3 +1,6 @@
+Chemical Engineering Separations Library
+========================================
+
 - heatXchanger.m
 > returns cost of heat exchanger 
 > inputs: heat load [MW], approach temperatures [C], overall heat coefficient, material factors
