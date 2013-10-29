@@ -3,7 +3,7 @@ Chemical Engineering Separations Library
 
 Absorbing
 ----------
-+ [``kremser_absorber.m``](https://github.com/oolongtea/separations/blob/master/Absorbing/kremser_absorber.m)
++ [``kremser_absorber.m``](https://github.com/oolongtea/separations/blob/master/Absorbing/kremser_absorber.m "go to code")
 
 Distillation
 -------------
